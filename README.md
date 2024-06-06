@@ -7,7 +7,8 @@ An overview of current repository organisations of the Swiss Confederation.
 * https://github.com/SFOE
 * https://github.com/FSO-PRICES
 * https://github.com/MeteoSwiss 
-* https://github.com/geoadmin 
+* https://github.com/geoadmin
+* https://github.com/BLV-OSAV-USAV
 
 ## Projects
 * https://github.com/visualize-admin
