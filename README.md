@@ -15,6 +15,7 @@ An overview of current repository organisations of the Swiss Confederation.
 * https://github.com/BFS-SHS-MSAS
 
 ## Projects
+* https://github.com/opendata-swiss
 * https://github.com/e-id-admin
 * https://github.com/visualize-admin
 * https://github.com/swisstopo-kpti
