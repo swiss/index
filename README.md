@@ -13,11 +13,11 @@ An overview of current repository organisations of the Swiss Confederation.
 * https://github.com/estv-admin
 * https://github.com/ogdch
 * https://github.com/BFS-SHS-MSAS
+* https://github.com/dscc-admin-ch
 
 ## Projects
 * https://github.com/opendata-swiss
 * https://github.com/e-id-admin
-* https://github.com/dscc-admin-ch
 * https://github.com/visualize-admin
 * https://github.com/swisstopo-kpti
 * https://github.com/astra-emsg
