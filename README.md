@@ -17,6 +17,7 @@ An overview of current repository organisations of the Swiss Confederation.
 ## Projects
 * https://github.com/opendata-swiss
 * https://github.com/e-id-admin
+* https://github.com/dscc-admin-ch
 * https://github.com/visualize-admin
 * https://github.com/swisstopo-kpti
 * https://github.com/astra-emsg
