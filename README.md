@@ -14,6 +14,7 @@ An overview of current repository organisations of the Swiss Confederation.
 * https://github.com/ogdch
 * https://github.com/BFS-SHS-MSAS
 * https://github.com/dscc-admin-ch
+* https://github.com/eiam-ch
 
 ## Projects
 * https://github.com/opendata-swiss
