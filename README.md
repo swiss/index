@@ -1,5 +1,5 @@
 # index
-An overview of the current GitHub organisations maintaned by the Swiss Confederation. This list does not claim to be complete. Input true Pull-Request or Issues are always welcome.
+An overview of the current GitHub organisations maintaned by the Swiss Confederation. This list does not claim to be complete. Inputs through Pull-Request or Issues are always welcome.
 
 ## Organizations
 * https://github.com/admin-ch
