@@ -16,7 +16,7 @@ An overview of the current GitHub organisations maintaned by the Swiss Confedera
 * https://github.com/dscc-admin-ch
 * https://github.com/eiam-ch
 
-## GitHub Organisations for Projects
+## GitHub Organizations for Projects
 * https://github.com/opendata-swiss
 * https://github.com/trustbroker-swiss
 * https://github.com/e-id-admin
