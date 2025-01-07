@@ -24,3 +24,4 @@ An overview of the current GitHub organisations maintaned by the Swiss Confedera
 * https://github.com/swisstopo-kpti
 * https://github.com/astra-emsg
 * https://github.com/oblique-bit
+* https://github.com/sfa-siard
