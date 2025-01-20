@@ -12,12 +12,11 @@ An overview of the current GitHub organisations maintaned by the Swiss Confedera
 * https://github.com/BLV-OSAV-USAV
 * https://github.com/estv-admin
 * https://github.com/ogdch
+* https://github.com/opendata-swiss
 * https://github.com/BFS-SHS-MSAS
 * https://github.com/dscc-admin-ch
-* https://github.com/eiam-ch
 
 ## GitHub Organizations for Projects
-* https://github.com/opendata-swiss
 * https://github.com/trustbroker-swiss
 * https://github.com/e-id-admin
 * https://github.com/visualize-admin
@@ -25,3 +24,4 @@ An overview of the current GitHub organisations maintaned by the Swiss Confedera
 * https://github.com/astra-emsg
 * https://github.com/oblique-bit
 * https://github.com/sfa-siard
+* https://github.com/eiam-ch
