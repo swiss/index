@@ -2,6 +2,7 @@
 An overview of the current GitHub organisations maintaned by the Swiss Confederation. This list does not claim to be complete. Inputs through Pull-Request or Issues are always welcome.
 
 ## GitHub Organizations
+* https://github.com/swiss
 * https://github.com/admin-ch
 * https://github.com/SwissFederalArchives
 * https://github.com/SFOE
@@ -17,11 +18,12 @@ An overview of the current GitHub organisations maintaned by the Swiss Confedera
 * https://github.com/dscc-admin-ch
 
 ## GitHub Organizations for Projects
-* https://github.com/trustbroker-swiss
-* https://github.com/e-id-admin
-* https://github.com/visualize-admin
-* https://github.com/swisstopo-kpti
 * https://github.com/astra-emsg
+* https://github.com/e-id-admin
+* https://github.com/eiam-ch
+* https://github.com/govcert-ch
 * https://github.com/oblique-bit
 * https://github.com/sfa-siard
-* https://github.com/eiam-ch
+* https://github.com/swisstopo-kpti
+* https://github.com/trustbroker-swiss
+* https://github.com/visualize-admin
