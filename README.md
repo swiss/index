@@ -1,29 +1,36 @@
 # index
-An overview of the current GitHub organisations maintaned by the Swiss Confederation. This list does not claim to be complete. Inputs through Pull-Request or Issues are always welcome.
+An overview of the current GitHub organisations maintaned by the Swiss Confederation. This list does not claim to be complete. List is in alphabetical order. Inputs through Pull-Request or Issues are always welcome.
 
 ## GitHub Organizations
-* https://github.com/swiss
 * https://github.com/admin-ch
-* https://github.com/SwissFederalArchives
-* https://github.com/SFOE
-* https://github.com/FSO-PRICES
-* https://github.com/MeteoSwiss
-* https://github.com/geoadmin
-* https://github.com/swisstopo
+* https://github.com/alv-ch
+* https://github.com/BFS-SHS-MSAS
 * https://github.com/BLV-OSAV-USAV
+* https://github.com/dscc-admin-ch
 * https://github.com/estv-admin
+* https://github.com/FSO-PRICES
+* https://github.com/geoadmin
+* https://github.com/KOST-CECO
+* https://github.com/MeteoSwiss
 * https://github.com/ogdch
 * https://github.com/opendata-swiss
-* https://github.com/BFS-SHS-MSAS
-* https://github.com/dscc-admin-ch
+* https://github.com/SFOE
+* https://github.com/swiss
+* https://github.com/SwissFederalArchives
+* https://github.com/swisstopo
 
 ## GitHub Organizations for Projects
 * https://github.com/astra-emsg
 * https://github.com/e-id-admin
 * https://github.com/eiam-ch
+* https://github.com/estv-admin
 * https://github.com/govcert-ch
+* https://github.com/MeteoSwiss-APN
 * https://github.com/oblique-bit
+* https://github.com/ogdch
 * https://github.com/sfa-siard
+* https://github.com/SwissCovid
 * https://github.com/swisstopo-kpti
 * https://github.com/trustbroker-swiss
 * https://github.com/visualize-admin
+* https://github.com/ZEM-Mediamatiker
