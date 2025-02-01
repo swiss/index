@@ -1,7 +1,7 @@
-# index
-An overview of the current GitHub organisations maintaned by the Swiss Confederation. This list does not claim to be complete. Thes list is sorted in alphabetical order. Inputs through Pull-Request or Issues are always welcome.
+# Federal Open Source GitHub Index
+An overview of the current GitHub organisations maintained by the Swiss Confederation. This list is not exhaustive. The list is sorted alphabetically. Contributions via pull requests or issues are always welcome.
 
-## GitHub Organizations
+## GitHub federal organisations
 * https://github.com/admin-ch
 * https://github.com/alv-ch
 * https://github.com/BFS-SHS-MSAS
@@ -19,7 +19,7 @@ An overview of the current GitHub organisations maintaned by the Swiss Confedera
 * https://github.com/SwissFederalArchives
 * https://github.com/swisstopo
 
-## GitHub Organizations for Projects
+## GitHub Projects Organisations 
 * https://github.com/astra-emsg
 * https://github.com/e-id-admin
 * https://github.com/eiam-ch
