@@ -6,6 +6,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/alv-ch
 * https://github.com/BFS-SHS-MSAS
 * https://github.com/BLV-OSAV-USAV
+* * https://github.com/cdc-si/
 * https://github.com/dscc-admin-ch
 * https://github.com/estv-admin
 * https://github.com/foen-admin-ch
@@ -20,7 +21,6 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/SwissFederalArchives
 * https://github.com/swisstopo
 * https://github.com/SwissNationalLibrary/
-* https://github.com/cdc-si/
 
 ## GitHub Organization of Federal Projects
 * https://github.com/astra-emsg
