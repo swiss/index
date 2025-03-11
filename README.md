@@ -20,6 +20,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/SFOE
 * https://github.com/swiss
 * https://github.com/Swiss-Armed-Forces
+* https://github.com/swiss-territorial-data-lab
 * https://github.com/SwissFederalArchives
 * https://github.com/swisstopo
 * https://github.com/SwissNationalLibrary
