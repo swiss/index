@@ -27,7 +27,6 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 
 ## GitHub Organization of Federal Projects
 * https://github.com/astra-emsg
-* https://github.com/e-id-admin
 * https://github.com/eiam-ch
 * https://github.com/estv-admin
 * https://github.com/govcert-ch
@@ -39,6 +38,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/sfa-siard
 * https://github.com/SwissCovid
 * https://github.com/swisstopo-kpti
+* https://github.com/swiyu-admin-ch
 * https://github.com/trustbroker-swiss
 * https://github.com/visualize-admin
 * https://github.com/ZEM-Mediamatiker
