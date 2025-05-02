@@ -15,7 +15,6 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/geoadmin
 * https://github.com/KOST-CECO
 * https://github.com/MeteoSwiss
-* https://github.com/ogdch
 * https://github.com/opendata-swiss
 * https://github.com/SFOE
 * https://github.com/swiss
