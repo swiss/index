@@ -24,6 +24,9 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/swisstopo
 * https://github.com/SwissNationalLibrary
 
+## GitLab Organizations of Federal Organisations
+* https://gitlab.com/swiss-armed-forces
+
 ## GitHub Organization of Federal Projects
 * https://github.com/astra-emsg
 * https://github.com/eiam-ch
