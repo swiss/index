@@ -33,6 +33,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/estv-admin
 * https://github.com/govcert-ch
 * https://github.com/i14y-ch
+* https://github.com/jeap-admin-ch
 * https://github.com/kadas-albireo
 * https://github.com/MeteoSwiss-APN
 * https://github.com/oblique-bit
