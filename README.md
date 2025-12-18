@@ -9,6 +9,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/BLV-OSAV-USAV
 * https://github.com/cdc-si/
 * https://github.com/dscc-admin-ch
+* https://github.com/eda-admin-ch
 * https://github.com/estv-admin
 * https://github.com/foen-admin-ch
 * https://github.com/FSO-PRICES
