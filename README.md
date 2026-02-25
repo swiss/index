@@ -29,6 +29,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://gitlab.com/swiss-armed-forces
 
 ## GitHub Organization of Federal Projects
+* https://github.com/agridata-ch
 * https://github.com/astra-emsg
 * https://github.com/eiam-ch
 * https://github.com/govcert-ch
