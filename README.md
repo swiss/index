@@ -8,6 +8,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/armasuissewt
 * https://github.com/bfspoku
 * https://github.com/BLV-OSAV-USAV
+* https://github.com/blw-ofag-ufag
 * https://github.com/cdc-si/
 * https://github.com/dscc-admin-ch
 * https://github.com/eda-admin-ch
