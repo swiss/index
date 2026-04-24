@@ -44,6 +44,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/officialgazette
 * https://github.com/sfa-siard
 * https://github.com/SwissCovid
+* https://github.com/swissgeo
 * https://github.com/swisstopo-kpti
 * https://github.com/swiyu-admin-ch
 * https://github.com/trustbroker-swiss
