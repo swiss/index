@@ -1,7 +1,7 @@
 # Federal Open Source GitHub Index
 An overview of the current GitHub organisations maintained by the Swiss Confederation. This list is not exhaustive. The list is sorted alphabetically. Contributions via pull requests or issues are always welcome.
 
-## GitHub Organizations of Federal Organisations
+## GitHub Organizations with Federal Ownership or Involvement
 * https://github.com/admin-ch
 * https://github.com/agroscope-ch
 * https://github.com/alv-ch
@@ -12,6 +12,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/cdc-si/
 * https://github.com/dscc-admin-ch
 * https://github.com/eda-admin-ch
+* https://github.com/ehealthsuisse
 * https://github.com/estv-admin
 * https://github.com/foen-admin-ch
 * https://github.com/FSO-PRICES
@@ -50,3 +51,6 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/trustbroker-swiss
 * https://github.com/visualize-admin
 * https://github.com/ZEM-Mediamatiker
+
+## GitHub Organizations with Cantonal Ownership or Involvement
+Coming soon
