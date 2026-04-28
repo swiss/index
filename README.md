@@ -42,6 +42,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/MeteoSwiss-APN
 * https://github.com/oblique-bit
 * https://github.com/officialgazette
+* https://gitlabext.wsl.ch/safe
 * https://github.com/sfa-siard
 * https://github.com/SwissCovid
 * https://github.com/swisstopo-kpti
