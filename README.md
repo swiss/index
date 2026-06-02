@@ -54,4 +54,5 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/ZEM-Mediamatiker
 
 ## GitHub Organizations with Cantonal Ownership or Involvement
-Coming soon
+* https://github.com/DCC-BS
+
