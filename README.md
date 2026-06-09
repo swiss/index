@@ -55,4 +55,5 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 
 ## GitHub Organizations with Cantonal Ownership or Involvement
 * https://github.com/DCC-BS
-
+* https://github.com/StataBS
+* https://github.com/opendatabs
