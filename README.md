@@ -58,6 +58,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/StataBS
 * https://github.com/opendatabs
 * https://github.com/statistikZH
-* https://github.com/openZH/
+* https://github.com/openZH
 * https://github.com/machinelearningZH
 * https://github.com/kanton-bern
+* https://github.com/gisktzh
