@@ -6,6 +6,7 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/agroscope-ch
 * https://github.com/alv-ch
 * https://github.com/armasuissewt
+* https://github.com/bbl-dres
 * https://github.com/bfspoku
 * https://github.com/BLV-OSAV-USAV
 * https://github.com/blw-ofag-ufag
