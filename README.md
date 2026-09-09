@@ -37,10 +37,10 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/astra-emsg
 * https://github.com/eiam-ch
 * https://github.com/govcert-ch
-* https://github.com/i14y-ch
 * https://github.com/jeap-admin-ch
 * https://github.com/jme-admin-ch
 * https://github.com/kadas-albireo
+* https://github.com/metadata-swiss
 * https://github.com/MeteoSwiss-APN
 * https://github.com/oblique-bit
 * https://github.com/officialgazette
