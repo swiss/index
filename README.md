@@ -63,6 +63,6 @@ An overview of the current GitHub organisations maintained by the Swiss Confeder
 * https://github.com/machinelearningZH
 * https://github.com/kanton-bern
 * https://github.com/gisktzh
-* https://github.com/republique-et-canton-de-geneve⁠￼
+* https://github.com/republique-et-canton-de-geneve⁠
 
 ## GitHub Organizations Across Decentralized Units of the Swiss Confederation
